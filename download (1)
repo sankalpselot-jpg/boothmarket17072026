@@ -1,0 +1,7 @@
+# Tell Vercel to ignore these folders - they are not part of the frontend build
+backend/
+frontend/
+infra/
+*.md
+nginx.conf
+Dockerfile.frontend
